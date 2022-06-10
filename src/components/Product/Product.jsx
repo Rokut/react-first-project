@@ -3,7 +3,7 @@ import data from '../../data/data';
 import './Product.css';
 
 const Product = ({addToCart}) => {
-  console.log(data); 
+  // console.log(data); 
   return (   
     <div className='itemList'> 
       {
